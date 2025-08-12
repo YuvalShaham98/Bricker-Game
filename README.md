@@ -16,7 +16,7 @@ Bricker is a modern twist on the classic brick-breaking arcade game. The player 
 ## Gallery
 | ![Hero Gameplay](assets/hero-gameplay.png) | ![Extra Life Drop](assets/extra-life.png) | ![Near Win](assets/near-win.png) |
 |---|---|---|
-| *תצוגה כללית של המשחק בפעולה* | *לב נופל לאחר פגיעה בלבנה מיוחדת* | *רגע "כמעט ניצחון" עם מעט לבנים שנותרו* |
+| *gameplay preview* | *Moment when a heart (extra life) drops* | *late-game scene* |
 
 ## How It Works
 - BrickerGameManager מנהל יצירה/הסרה של אובייקטים, התנגשויות, מצב חיים וניקוד  
