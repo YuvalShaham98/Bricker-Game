@@ -19,9 +19,9 @@ Bricker is a modern twist on the classic brick-breaking arcade game. The player 
 | *gameplay preview* | *Moment when a heart (extra life) drops* | *late-game scene* |
 
 ## How It Works
-- BrickerGameManager מנהל יצירה/הסרה של אובייקטים, התנגשויות, מצב חיים וניקוד  
-- StrategyFactory מחליט אילו אסטרטגיות מופעלות על לבנים מיוחדות ומגביל קומבינציות מורכבות מדי  
-- DoubleStrategy מאפשר להחיל שתי אסטרטגיות יחד, למתח והפתעה מבוקרים
+* **BrickerGameManager** manages the creation and removal of objects, collision handling, life tracking, and scoring.
+* **StrategyFactory** determines which strategies are applied to special bricks and limits overly complex combinations.
+* **DoubleStrategy** allows two strategies to be applied simultaneously, creating controlled tension and surprise.
 
 ## Technologies
 Java, DanoGameLab, IntelliJ IDEA
